@@ -1,1 +1,1 @@
-we: gunicorn run:app
+we: gunicorn discordClone.wsgi
